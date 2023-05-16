@@ -1,0 +1,49 @@
+<students>
+    <student>
+        <applicant>
+            <surname>Sarkisov</surname>
+            <name>Vladimir</name>
+            <patronymic>Sergeevich</patronymic>
+            <group>ESBO-01-22</group>
+            <discipline>Computer Science</discipline>
+            <total_works>10</total_works>
+            <completed_works>10</completed_works>
+        </applicant>
+        <applicant>
+            <surname>Dolgov</surname>
+            <name>Aleksandr</name>
+            <patronymic>Timofeevich</patronymic>
+            <group>BASO-15-22</group>
+            <discipline>Computer Science</discipline>
+            <total_works>10</total_works>
+            <completed_works>8</completed_works>
+        </applicant>
+        <applicant>
+            <surname>Ivanchyk</surname>
+            <name>Vladimir</name>
+            <patronymic>Sergeevich</patronymic>
+            <group>TLBO-01-22</group>
+            <discipline>Computer Science</discipline>
+            <total_works>10</total_works>
+            <completed_works>0</completed_works>
+        </applicant>
+        <applicant>
+            <surname>Dubov</surname>
+            <name>Serg</name>
+            <patronymic>Petrovich</patronymic>
+            <group>ABCD-11-22</group>
+            <discipline>Computer Science</discipline>
+            <total_works>10</total_works>
+            <completed_works>6</completed_works>
+        </applicant>
+        <applicant>
+            <surname>Sarkisov</surname>
+            <name>Petr</name>
+            <patronymic>Albertovich</patronymic>
+            <group>QWER-05-22</group>
+            <discipline>Computer Science</discipline>
+            <total_works>10</total_works>
+            <completed_works>4</completed_works>
+        </applicant>
+    </student>
+</students>

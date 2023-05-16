@@ -1,0 +1,22 @@
+<Catalog>
+    <result>
+        <applicant code="001">
+            <surname>Sarkisov</surname>
+            <math>100</math>
+            <russian>100</russian>
+            <infotmatics>100</infotmatics>
+        </applicant>
+        <applicant code="002">
+            <surname>Dolgov</surname>
+            <math>80</math>
+            <russian>70</russian>
+            <infotmatics>100</infotmatics>
+        </applicant>
+        <applicant code="003">
+            <surname>Iontsev</surname>
+            <math>50</math>
+            <russian>70</russian>
+            <infotmatics>90</infotmatics>
+        </applicant>
+    </result>
+</Catalog>
